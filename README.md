@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![WhatsAudit](https://img.shields.io/badge/WhatsAudit-v0.0.2--alpha-blue?style=for-the-badge)
+![WhatsAudit](https://img.shields.io/badge/WhatsAudit-v0.0.6--alpha-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
