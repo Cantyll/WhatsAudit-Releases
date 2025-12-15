@@ -2,7 +2,7 @@
 
 > Ferramenta de auditoria visual de conversas do WhatsApp. Analise, pesquise e filtre exportações de chat com suporte a mídia rica.
 
-[![Version](https://img.shields.io/badge/version-0.0.10-alpha)](https://github.com/Cantyll/WhatsAudit-Releases/releases)
+[![Version](https://img.shields.io/badge/version-0.0.11-alpha)](https://github.com/Cantyll/WhatsAudit-Releases/releases)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## 📋 Sobre
@@ -16,21 +16,20 @@ WhatsAudit é uma aplicação desktop desenvolvida com Electron que permite visu
 - 📊 **Estatísticas**: Visualize métricas das conversas
 - 🎨 **Tema claro/escuro**: Interface adaptável ao seu gosto
 - 📎 **Suporte a mídia**: Visualize imagens, vídeos, áudios e documentos
+- 💾 **Armazenamento local**: Salve e gerencie conversas completas localmente no aplicativo
+- 📂 **Gerenciamento de conversas**: Sidebar para acessar rapidamente conversas salvas
 - 🔄 **Auto-update**: Atualizações automáticas via GitHub Releases
 - ⚡ **Performance**: Processamento rápido mesmo com conversas grandes
 
 ## 🚀 Download
 
-### Versão Atual: **v0.0.10-alpha**
+### Versão Atual: **v0.0.11-alpha**
 
 Baixe a versão mais recente em: [WhatsAudit-Releases](https://github.com/Cantyll/WhatsAudit-Releases/releases)
 
-### Opções de Instalação
+### Instalação
 
 - **Instalador (NSIS)**: `WhatsAudit-Setup-*.exe` - Instalação completa com auto-update
-- **Portable**: `WhatsAudit-*.exe` - Versão portátil (não requer instalação)
-
-> ⚠️ **Nota**: O auto-update funciona apenas com a versão instalada (NSIS). A versão portable não suporta atualizações automáticas.
 
 ## 🛠️ Tecnologias
 
@@ -91,4 +90,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 **Última atualização**: December 2025
-**Versão atual**: v0.0.10-alpha
+**Versão atual**: v0.0.11-alpha
