@@ -2,7 +2,7 @@
 
 > Ferramenta de auditoria visual de conversas do WhatsApp. Analise, pesquise e filtre exportações de chat com suporte a mídia rica.
 
-[![Version](https://img.shields.io/badge/version-0.0.18-alpha)](https://github.com/Cantyll/WhatsAudit-Releases/releases)
+[![Version](https://img.shields.io/badge/version-0.0.19-alpha)](https://github.com/Cantyll/WhatsAudit-Releases/releases)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## 📋 Sobre
@@ -15,15 +15,17 @@ WhatsAudit é uma aplicação desktop desenvolvida com Electron que permite visu
 - 🔍 **Busca avançada**: Pesquise por palavras-chave, datas e contatos
 - 📊 **Estatísticas**: Visualize métricas das conversas
 - 🎨 **Tema claro/escuro**: Interface adaptável ao seu gosto
+- 🖼️ **Seletor de Wallpaper**: 6 opções de wallpaper com preview e suporte a modo claro/escuro
 - 📎 **Suporte a mídia**: Visualize imagens, vídeos, áudios e documentos
 - 💾 **Armazenamento local**: Salve e gerencie conversas completas localmente no aplicativo
 - 📂 **Gerenciamento de conversas**: Sidebar para acessar rapidamente conversas salvas
 - 🔄 **Auto-update**: Atualizações automáticas via GitHub Releases
 - ⚡ **Performance**: Processamento rápido mesmo com conversas grandes
+- 🎬 **Animações modernas**: Micro-interações suaves e elegantes
 
 ## 🚀 Download
 
-### Versão Atual: **v0.0.18-alpha**
+### Versão Atual: **v0.0.19-alpha**
 
 Baixe a versão mais recente em: [WhatsAudit-Releases](https://github.com/Cantyll/WhatsAudit-Releases/releases)
 
@@ -90,4 +92,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 **Última atualização**: December 2025
-**Versão atual**: v0.0.18-alpha
+**Versão atual**: v0.0.19-alpha
